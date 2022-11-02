@@ -16,7 +16,7 @@
 <p align="left"> 
 
 <a href="https://learn.microsoft.com/de-de/office/vba/api/overview/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="vba"/> </a> 
-<a href="https://www.google.com/intl/de_de/sheets/about/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="googlesheets"/> </a>
+<a href="https://www.google.com/intl/de_de/sheets/about/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=Apps-Script&logoColor=white" alt="googlesheets"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> </a> 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="dotnet"/> </a> 
